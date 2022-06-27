@@ -1,4 +1,4 @@
-name: Raspberry Pi4
+name: G-DOCK
 
 on:
   repository_dispatch:
